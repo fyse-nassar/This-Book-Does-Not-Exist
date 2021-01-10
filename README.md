@@ -37,14 +37,14 @@
   <p align="center">
 Inspired by many projects in https://thisxdoesnotexist.com, I have created a similar project that creates cover pages of books that do not exist
     <br />
-    <a href="https://github.com/fyse-nassar/this-book-does-not-exist">View Demo</a>
-    ·
     <a href="https://github.com/fyse-nassar/this-book-does-not-exist/issues">Report Bug</a>
     ·
     <a href="https://github.com/fyse-nassar/this-book-does-not-exist/issues">Request Feature</a>
   </p>
-</p>
-
+  
+<p align="center">
+   <img src="https://github.com/fyse-nassar/this-book-does-not-exist/blob/main/demo.gif" width="532" height="532"/>
+  </p>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -78,6 +78,7 @@ Inspired by many projects in https://thisxdoesnotexist.com, I have created a sim
 ### Built With
 
 * Python
+* Pytorch
 * Jupyter Notebook
 
 
