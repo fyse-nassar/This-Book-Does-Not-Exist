@@ -48,7 +48,6 @@ Inspired by many projects in https://thisxdoesnotexist.com, I have created a sim
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
@@ -67,7 +66,6 @@ Inspired by many projects in https://thisxdoesnotexist.com, I have created a sim
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
-</details>
 
 
 
