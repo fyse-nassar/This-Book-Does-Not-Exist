@@ -37,9 +37,6 @@
   <p align="center">
 Inspired by many projects in https://thisxdoesnotexist.com, I have created a similar project that creates cover pages of books that do not exist
     <br />
-    <a href="https://github.com/fyse-nassar/this-book-does-not-exist"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/fyse-nassar/this-book-does-not-exist">View Demo</a>
     ·
     <a href="https://github.com/fyse-nassar/this-book-does-not-exist/issues">Report Bug</a>
@@ -64,7 +61,7 @@ Inspired by many projects in https://thisxdoesnotexist.com, I have created a sim
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#dataset">Dataset</a></li>
-        <li><a href="#running the code">Installation</a></li>
+        <li><a href="#running-the-code">Installation</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
