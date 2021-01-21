@@ -35,7 +35,7 @@
   <h3 align="center">This Book does not Exist !</h3>
 
   <p align="center">
-Inspired by many projects in https://thisxdoesnotexist.com, I have created a similar project that creates cover pages of books that do not exist. This work is curerntly in progress.
+Inspired by many projects in https://thisxdoesnotexist.com, I have created a similar project that creates cover pages of books that do not exist. This work is currently in progress.
     <br />
     <a href="https://github.com/fyse-nassar/this-book-does-not-exist/issues">Report Bug</a>
     ·
